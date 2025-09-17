@@ -1,0 +1,10 @@
+{
+    "author": ["TaverNxyz"],
+    "name": "SpellingBee",
+    "short": "A spelling bee bot for Discord",
+    "description": "Interactive spelling bee game with multiple difficulties",
+    "tags": ["games", "education", "spelling"],
+    "requirements": [],
+    "hidden": false,
+    "end_user_data_statement": "This cog stores user statistics and game data."
+}
